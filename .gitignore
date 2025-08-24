@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environments / local
+.env
+.env.*
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# alembic artifacts (if any tmp)
+alembic/*_tmp*
